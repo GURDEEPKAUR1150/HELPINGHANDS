@@ -1,0 +1,13 @@
+.container {background:repeating-linear-gradient(#BEFFF7, #A6F6FF, #9EDDFF, #6499E9);}
+
+.Heading{text-align:center; font-size: 2em;color:#EE9322;}
+
+.img{border-radius:20%; }
+
+.buttons{display:flex;
+gap:750px;
+margin:30px;}
+li{font-size:8;
+text-align:left;
+Background:repeating-linear-gradient(#BEFFF7, #A6F6FF, #9EDDFF, #6499E9);
+color:green;}
