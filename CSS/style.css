@@ -4,7 +4,7 @@
 
 .img{border-radius:20%; }
 
-.buttons{display:flex;
+.buttons{display:flex-wrap;
 gap:750px;
 margin:30px;}
 li{font-size:8;
